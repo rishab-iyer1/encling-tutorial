@@ -5,3 +5,10 @@ encling-data
 .DS_Store
 *.fif
 *.nii.gz
+Miniconda3-latest-Linux-x86_64.sh
+masker_file.pkl
+model/
+model_outputs.pkl
+surfaces_file.pkl
+tokenizer/
+
